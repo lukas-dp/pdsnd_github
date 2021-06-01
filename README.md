@@ -4,10 +4,10 @@
 1st June, 2021
 
 ### Project Title
-Replace the Project Title
+Bike Sharing Analyzer
 
 ### Description
-Describe what your project is about and what it does
+The project analyzes bike-Sharing data and allows user input for a certain period.
 
 ### Files used
 Three files are used in the project:
