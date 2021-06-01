@@ -120,9 +120,11 @@ def user_stats(df):
 
 def main():
     while True:
+        # Get user input and import data
         city, month, day = get_filters()
         df = load_data(city, month, day)
 
+        # Calculate and print stats
         time_stats(df)
         station_stats(df)
         trip_duration_stats(df)
